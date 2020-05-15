@@ -1,6 +1,19 @@
 @charset "utf-8";
 /* CSS Document */
 
+.raleway{
+  font: 14px "Raleway";
+  color: #ffffff;
+  font-size: 14px;
+}
+.ralewayFont{
+  font: 14px "Raleway";
+}
+.bold{
+  font-weight: bold;
+}
+
+
 .pl19{
     padding-left: 19px;
 }
@@ -39,11 +52,14 @@
 .mr64{
     margin-right: 64px;
 }
+.mr8{
+    margin-right: 8px;
+}
 .mr_none{
   margin-right: 0 !important;
 }
-.mb_156{
-  margin-bottom: 156px;
+.mr_30{
+  margin-right: 30px;
 }
 
 .pt_33{
