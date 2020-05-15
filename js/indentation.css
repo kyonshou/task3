@@ -1,0 +1,70 @@
+@charset "utf-8";
+/* CSS Document */
+
+.raleway{
+  font: 14px "Raleway";
+  color: #ffffff;
+  font-size: 14px;
+}
+.ralewayFont{
+  font: 14px "Raleway";
+}
+.bold{
+  font-weight: bold;
+}
+
+
+.pl19{
+    padding-left: 19px;
+}
+.pb_156{
+  padding-bottom: 156px;
+}
+.grey{
+    color: #787878;
+}
+.mt40{
+    margin-top: 40px;
+}
+.mt38{
+    margin-top: 38px;
+}
+.mt41{
+    margin-top: 41px;
+}
+
+
+.mb18{
+    margin-bottom: 18px;
+}
+.mb_26{
+    margin-bottom: 26px;
+}
+.mb_33{
+    margin-bottom: 33px;
+}
+.mb_34{
+    margin-bottom: 34px;
+}
+.mb_40{
+    margin-bottom: 40px;
+}
+.mr64{
+    margin-right: 64px;
+}
+.mr8{
+    margin-right: 8px;
+}
+.mr_none{
+  margin-right: 0 !important;
+}
+.mr_30{
+  margin-right: 30px;
+}
+
+.pt_33{
+  padding-top: 33px;
+}
+.pb_26{
+  padding-bottom: 26px;
+}
